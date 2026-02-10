@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Partha
 
-## 👨‍💻 About Me
-- 🎓 Second-year Engineering Student
-- 💻 Backend-focused developer
-- 📊 Exploring Data Science & Machine Learning
-- ⚙️ Interested in building scalable systems and APIs
-- 🌱 Continuous learner with a strong focus on fundamentals
+##  About Me
+-  Second-year Engineering Student
+-  Backend-focused developer
+-  Exploring Data Science & Machine Learning
+-  Interested in building scalable systems and APIs
+-  Continuous learner with a strong focus on fundamentals
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 - Backend development using **Python**
 - REST APIs with **Flask / FastAPI**
 - Database design using **PostgreSQL** , **MongoDB** 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced **FastAPI**
 - **Machine Learning** with scikit-learn
 - **Data Structures & Algorithms** (Java)
@@ -26,21 +26,21 @@
 
 ---
 
-## 👯 Looking to Collaborate On
+##  Looking to Collaborate On
 - Python backend projects
 - Open-source tools related to automation or data
 - ML-powered web applications
 
 ---
 
-## 🤔 Looking for Help With
+##  Looking for Help With
 - Advanced backend architecture
 - Optimizing ML pipelines
 - Real-world system design problems
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 - Python
 - Flask / FastAPI
 - PostgreSQL
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 - Python
@@ -81,23 +81,23 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Partha-sh&show_icons=true&theme=default)
 
 ---
 
-## 🔗 Coding Profiles
+##  Coding Profiles
 
-- 🧠 **LeetCode**: https://leetcode.com/u/partha_10/
-- 📊 **Kaggle**: https://www.kaggle.com/parthasharmaknk
+-  **LeetCode**: https://leetcode.com/u/partha_10/
+-  **Kaggle**: https://www.kaggle.com/parthasharmaknk
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 - GitHub: https://github.com/Partha-sh
 - Email: hanupartha@example.com
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 - I prefer building things from scratch to understand how they really work.
