@@ -12,7 +12,7 @@
 ## 🔭 Currently Working On
 - Backend development using **Python**
 - REST APIs with **Flask / FastAPI**
-- Database design using **PostgreSQL** **MongoDB** 
+- Database design using **PostgreSQL** , **MongoDB** 
 - Practical Machine Learning projects (Kaggle, EDA, model building)
 
 ---
@@ -75,6 +75,11 @@
 - Git & GitHub
 - VS Code
 - Linux (basic)
+
+### GameDev
+- javascript
+![Code.org](https://studio.code.org/projects)
+- Did it ages ago
 
 ---
 
