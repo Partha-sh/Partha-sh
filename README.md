@@ -86,12 +86,10 @@
 
 ---
 
-
 ## 🔗 Coding Profiles
 
-![LeetCode](https://leetcode.com/u/partha_10/)
-![Kaggle](https://www.kaggle.com/parthasharmaknk)
-
+- 🧠 **LeetCode**: https://leetcode.com/u/partha_10/
+- 📊 **Kaggle**: https://www.kaggle.com/parthasharmaknk
 
 ---
 
