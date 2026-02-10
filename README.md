@@ -77,14 +77,21 @@
 - Linux (basic)
 
 ### GameDev
-- javascript
-![Code.org](https://studio.code.org/projects)
-- Did it ages ago
+- javascript (It was just for fun ,did that in 8th class)
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Partha-sh&show_icons=true&theme=default)
+
+---
+
+
+## 🔗 Coding Profiles
+
+![LeetCode](https://leetcode.com/u/partha_10/)
+![Kaggle](https://www.kaggle.com/parthasharmaknk)
+
 
 ---
 
