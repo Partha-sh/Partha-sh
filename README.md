@@ -70,6 +70,8 @@
 ### Databases
 - PostgreSQL
 -  MongoDB
+-  SQLite
+-  
 
 ### Tools
 - Git & GitHub
