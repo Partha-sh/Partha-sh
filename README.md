@@ -3,7 +3,7 @@
 ##  About Me
 -  Second-year Engineering Student
 -  Backend-focused developer
--  Exploring Data Science & Machine Learning
+-  Learning Data Science & Machine Learning
 -  Interested in building scalable systems and APIs
 -  Continuous learner with a strong focus on fundamentals
 
@@ -11,6 +11,7 @@
 
 ##  Currently Working On
 - Backend development using **Python**
+- Connecting Databases with **Django**
 - REST APIs with **Flask / FastAPI**
 - Database design using **PostgreSQL** , **MongoDB** 
 - Practical Machine Learning projects (Kaggle, EDA, model building)
