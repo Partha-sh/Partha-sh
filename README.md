@@ -3,7 +3,7 @@
 ##  About Me
 -  Second-year Engineering Student
 -  Backend-focused developer
--  Learning Data Science & Machine Learning
+-  Data Science & Machine Learning
 -  Interested in building scalable systems and APIs
 -  Continuous learner with a strong focus on fundamentals
 
