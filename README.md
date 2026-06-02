@@ -21,7 +21,7 @@
 ##  Currently Learning
 - Advanced **FastAPI**
 - **Machine Learning** with scikit-learn
-- **Data Structures & Algorithms** (Java)
+- **Data Structures & Algorithms** 
 - Backend–ML integration
 - System design basics
 
@@ -48,6 +48,7 @@
 - MongoDB
 - Machine Learning basics
 - Backend fundamentals
+- Data Structure and Algorithms
 
 ---
 
@@ -61,23 +62,28 @@
 ### Backend
 - Flask
 - FastAPI
+- Django
 
 ### Data & ML
 - NumPy
 - Pandas
 - scikit-learn
 - seaborn
+- Matplotlib
+- OpenCV
+- Pytorch
 
 ### Databases
 - PostgreSQL
 -  MongoDB
 -  SQLite
--  
+  
 
 ### Tools
 - Git & GitHub
 - VS Code
 - Linux (basic)
+- Docker
 
 ### GameDev
 - javascript (It was just for fun ,did that in 8th class)
