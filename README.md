@@ -11,7 +11,7 @@
 
 ##  Currently Working On
 - Backend development using **Python**
-- - Practical Machine Learning projects (Kaggle, EDA, model building)
+-  Practical Machine Learning projects (Kaggle, EDA, model building)
 - Connecting Databases with **Django**
 - REST APIs with **Flask / FastAPI**
 - Database design using **PostgreSQL** , **MongoDB** 
