@@ -1,37 +1,102 @@
 # Hi there 👋, I'm Partha
 
-##  About Me
--  Second-year Engineering Student
--  Backend-focused developer
--  Data Science & Machine Learning
--  Interested in building scalable systems and APIs
--  Continuous learner with a strong focus on fundamentals
+## About Me
+
+* B.Tech Computer Science student
+* Backend Developer specializing in Python
+* Machine Learning and AI enthusiast
+* Currently building intelligent systems using Reinforcement Learning
+* Passionate about scalable backend architectures and clean, maintainable code
+* Experienced in developing end-to-end Machine Learning pipelines, from data preprocessing to deployment
+* Always focused on learning fundamentals and applying them through real-world projects
 
 ---
 
-##  Currently Working On
-- Backend development using **Python**
--  Practical Machine Learning projects (Kaggle, EDA, model building)
-- Connecting Databases with **Django**
-- REST APIs with **Flask / FastAPI**
-- Database design using **PostgreSQL** , **MongoDB** 
+## Currently Working On
 
-
----
-
-##  Currently Learning
-- Advanced **FastAPI**
-- **Machine Learning** with scikit-learn
-- **Data Structures & Algorithms** 
-- Backend–ML integration
-- System design basics
+* Reinforcement Learning Project
+* Backend Development with FastAPI and Django
+* Machine Learning Projects using scikit-learn and TensorFlow
+* Backend–ML Integration
+* REST API Development
+* Database Design with PostgreSQL and MongoDB
 
 ---
 
-##  Looking to Collaborate On
-- Python backend projects
-- Open-source tools related to automation or data
-- ML-powered web applications
+## Currently Learning
+
+* Advanced FastAPI
+* Reinforcement Learning
+* Machine Learning with scikit-learn
+* Data Structures & Algorithms
+* System Design Fundamentals
+* MLOps and Model Deployment
+* Distributed Systems
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Python
+* Java
+* SQL
+
+### Backend
+
+* FastAPI
+* Flask
+* Django
+* REST APIs
+
+### Machine Learning
+
+* Scikit-learn
+* TensorFlow
+* Pandas
+* NumPy
+* XGBoost
+* Reinforcement Learning
+* Feature Engineering
+* Model Evaluation
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Jupyter Notebook
+* VS Code
+* Kaggle
+
+---
+
+## Looking to Collaborate On
+
+* Python Backend Projects
+* Reinforcement Learning Applications
+* Machine Learning Projects
+* Backend APIs
+* Open Source Development
+* Automation Tools
+* ML-Powered Web Applications
+
+---
+
+## Goals
+
+* Build production-ready AI systems
+* Design scalable backend architectures
+* Deploy machine learning models into real-world applications
+* Contribute to meaningful open-source projects
+* Continuously improve as a Backend and AI Engineer
 
 ---
 
