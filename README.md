@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Partha
+# Hi there , I'm Partha
 
 ## About Me
 
